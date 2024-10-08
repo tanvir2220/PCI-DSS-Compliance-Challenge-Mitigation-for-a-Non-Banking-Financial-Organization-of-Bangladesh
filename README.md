@@ -33,5 +33,5 @@ I have formulated an Information Security Management Guideline & added some reco
 
 The following documents, that include a Project Book and a short Presentation module, contain all the works we did to accomplish our goals.
 
-1. Book: https://drive.google.com/file/d/1IY8VadBzo5gCNngIKGouBuxV54OMtore/view?usp=sharing
-2. In Brief: https://docs.google.com/presentation/d/1BeChFYVyaYLMhZr9vLGexoq5KCnxX3Jb/edit?usp=sharing&ouid=104026710856624821872&rtpof=true&sd=true
+1. Book: https://drive.google.com/file/d/1kIOMnyUJiYSSGdmaUUtIOofqTHRkektr/view?usp=sharing
+2. In Brief: https://docs.google.com/presentation/d/125oB0shZ5sYQyEMmClnKJYqg5WJcbdvz/edit?usp=sharing&ouid=104026710856624821872&rtpof=true&sd=true
